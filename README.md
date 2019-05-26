@@ -1,9 +1,9 @@
 # Docker Tutorial
 
-This is the application for the [*Docker Tutorial*](https://github.com/HoanKi/docker_tutorial) by [HoanKi](https://github.com/HoanKi).
+This is the application for the [*Docker Tutorial*](https://github.com/lionel-it/dockeraut) by [HoanKi](https://github.com/lionel-it).
 
 + About Dockerfile:
-  +  [Demo](https://github.com/HoanKi/docker_tutorial/tree/dockerfile)
+  +  [Demo](https://github.com/lionel-it/dockerauto/blob/master/Dockerfile)
 
 + About docker-compose:
 
